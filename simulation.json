@@ -1,5 +1,5 @@
 {
-  "sources": ["src/design.v"],
-  "testbench": "sim/tb_design.v",
-  "simulation_top": "tb_design"
+  "sources": ["src/lab3_character_lcd.v"],
+  "testbench": "sim/tb_character_lcd.sv",
+  "simulation_top": "tb_character_lcd"
 }
